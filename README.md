@@ -14,7 +14,7 @@
 
 - 🌱 Currently learning **Malware Analysis and Detection**
 
-- - 🔭 I’m currently working on **Polymorphic Malware Detection**
+- 🔭 I’m currently working on **Polymorphic Malware Detection**
 
 <p align="left">
 </p>
