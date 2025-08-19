@@ -2,7 +2,7 @@
   <img height="150" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png"  />
 </div>
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A aspirirng cybersecurity enthusiast exploring system security & Tools.</h3>
+<h3 align="center">A aspiring cybersecurity enthusiast exploring system security & Tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rr0h1t&label=Profile%20views&color=0e75b6&style=flat" alt="rr0h1t" /> </p>
 
